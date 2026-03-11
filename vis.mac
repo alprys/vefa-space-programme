@@ -1,0 +1,9 @@
+/vis/open OGL
+
+/vis/drawVolume
+/vis/scene/add/axes 0 0 0 0.05 m
+/vis/scene/add/trajectories smooth
+/vis/scene/endOfEventAction accumulate
+/vis/viewer/setPerspective true
+/vis/scene/endOfEventAction accumulate
+/vis/trajectory/set/drawByParticleID
