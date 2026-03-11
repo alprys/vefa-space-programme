@@ -1,11 +1,17 @@
 # Team Vefa's Project
 Team Vefa is applying for Beamline for Schools (BL4S) using this demonstration on Geant4.
 
+## Contents
+- [Geant4](#geant4)
+- [Demonstration](#demonstration)
+- [Setup and Running the Simulation](#setup-and-running-the-simulation)
+- [Credits](#credits)
+
 ## Geant4
 Geant4 is a toolkit for the simulation of the passage of particles through matter. It's a toolkit based on C++.
 You can find more information about Geant4 [here](http://cern.ch/geant4).
 
-## Demonstation
+## Demonstration
 You can find some images from the simulation with 10000 beams of protons with increasing energy below.
 
 <img src="/images/initial_state.png?raw=true" width="400" height="400" alt="Initial state">
