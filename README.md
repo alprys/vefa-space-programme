@@ -54,4 +54,4 @@ You can use the [Geant4 guide](https://geant4-userdoc.web.cern.ch/UsersGuides/In
 - `/gun/particle proton`: Sets a new particle type for all future particles (default: *proton*).
 
 ## Credits
-Geant4 was developed by the **Geant4 Collaboration** and its license was subsequently included in [/LICENSE](/LICENSE). This **README** and the project associated with it was made by [Alp (@alprys](https://alprys.com).
+Geant4 was developed by the **Geant4 Collaboration** and its license was subsequently included in [/LICENSE](/LICENSE). This **README** and the project associated with it was made by [Alp (@alprys)](https://alprys.com).
