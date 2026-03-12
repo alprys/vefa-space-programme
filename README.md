@@ -1,5 +1,5 @@
-# Team Vefa's Project
-Team Vefa is applying for Beamline for Schools (BL4S) using this demonstration on Geant4.
+# Vefa Space Programme's Project
+Vefa Space Programme is applying for Beamline for Schools (BL4S) using this demonstration on Geant4.
 
 ## Contents
 - [Geant4](#geant4)
