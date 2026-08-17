@@ -29,7 +29,7 @@ Before running the simulation, make sure to download all of the following:
 - [Visual Studio 2022](https://aka.ms/vs/17/release/vs_community.exe)
 - [Geant4](https://geant4.web.cern.ch/download)
 
-The download and the initial setup are the hardest steps (at least for me), so [here is a video](https://www.youtube.com/watch?v=w7k9PK1Ipv8) that explains how you can successfully complete them on Windows 11. After the initial setup:
+The download and the initial setup are the hardest steps (at least they were for me), so [here is a video](https://www.youtube.com/watch?v=w7k9PK1Ipv8) that explains how you can successfully complete them on Windows 11. After the initial setup:
 
 1. Unzip the source code.
 2. Open **CMake (cmake-gui)**.
