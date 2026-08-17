@@ -1,7 +1,7 @@
 # Vefa Space Programme's Project
 ~~Vefa Space Programme is applying for Beamline for Schools (BL4S) using this demonstration on Geant4.~~
 
-Vefa Space Programme has been [shortlisted](beamlineforschools.cern/wp-content/uploads/2026/05/BL4S_all-winners_2026.pdf) in Beamline for Schools (BL4S) 2026 edition with the use of this demonstration on Geant4.
+Vefa Space Programme has been [shortlisted](https://beamlineforschools.cern/wp-content/uploads/2026/05/BL4S_all-winners_2026.pdf) in Beamline for Schools (BL4S) 2026 edition with the use of this demonstration on Geant4.
 
 ## Contents
 - [Geant4](#geant4)
