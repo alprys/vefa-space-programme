@@ -50,7 +50,7 @@ The download and the initial setup are the hardest steps (at least they were for
 
 After 14 steps, the simulation is now running!
 
-You can use the [Geant4 guide](https://geant4-userdoc.web.cern.ch/UsersGuides/IntroductionToGeant4/html/index.html) to run some commands, but its very long and time consuming. So here are some commands you might want to use:
+You can use the [Geant4 guide](https://geant4-userdoc.web.cern.ch/UsersGuides/IntroductionToGeant4/html/index.html) to run some commands, but its very long and time consuming to fathom. So here are some commands you might want to use:
 - `/run/beamOn 1`: Sends **1 beam(s)** of a particle.
 - `/gun/energy 100 MeV`: Sets a new energy for all future particles to have at **100 MeV** (default: *100 MeV*).
 - `/gun/particle proton`: Sets a new particle type for all future particles (default: *proton*).
